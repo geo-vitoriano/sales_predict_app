@@ -18,7 +18,7 @@ from sklearn import metrics
 
 st.set_page_config(layout = 'wide')
 
-st.title("Modelo de Previsão de Vendas")
+st.title("Previsão de Vendas")
 
 # Extração de dados ####################################################################################################################
 lista_arquivos = list()
